@@ -1,6 +1,6 @@
 ## Drag N Drop
 
-Drang and Drop functionality using CSS and Javascript.
+Drag and Drop functionality using CSS and Javascript.
 
 ## Live Preview
 
